@@ -3,6 +3,11 @@
 @tailwind utilities;
 
 .iframe{
-    width: 125vmin !important; 
-    height: 70.75vmin !important;
+    width: 122vmin !important; 
+    height: 70vmin !important;
+}
+
+.iframe2{
+    width: 32.5vmin !important; 
+    height: 18.5vmin !important;
 }
